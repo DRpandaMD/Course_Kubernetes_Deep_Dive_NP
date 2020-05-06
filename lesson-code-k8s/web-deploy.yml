@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: simple-web
   labels:
-    customer: acg
+    customer: drpandamd
 spec:
   selector:
     matchLabels:
